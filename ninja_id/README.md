@@ -7,7 +7,7 @@ This is a simple Flutter project that I created while following along with The N
 To run this app on your local machine, you'll need to have Flutter installed. Once Flutter is installed, you can clone this repository and run the following command in your terminal:
 
 ~~~
-'flutter.run'
+flutter.run
 ~~~
 
 # Technologies Used
