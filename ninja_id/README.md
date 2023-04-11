@@ -5,13 +5,16 @@ This is a simple Flutter project that I created while following along with The N
 ## Getting Started
 
 To run this app on your local machine, you'll need to have Flutter installed. Once Flutter is installed, you can clone this repository and run the following command in your terminal:
+
+,,,
 'flutter.run'
+'''
 
 # Technologies Used
 This project was built using the following technologies:
 
- *Flutter
- *Dart
+ * Flutter
+ * Dart
  
 # Acknowledgements
 I'd like to thank The Net Ninja for creating such a great Flutter tutorial series. I learned a lot about mobile app development and Flutter specifically from watching his videos.
