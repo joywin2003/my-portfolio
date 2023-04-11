@@ -1,16 +1,20 @@
-# ninja_id
+# Ninja ID - Flutter Project from The Net Ninja
 
-A new Flutter project.
+This is a simple Flutter project that I created while following along with The Net Ninja's Flutter tutorial series on YouTube. The project is a basic Ninja ID app that displays a user's name, level, email, and profile picture.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this app on your local machine, you'll need to have Flutter installed. Once Flutter is installed, you can clone this repository and run the following command in your terminal:
+'flutter.run'
 
-A few resources to get you started if this is your first Flutter project:
+# Technologies Used
+This project was built using the following technologies:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ *Flutter
+ *Dart
+ 
+# Acknowledgements
+I'd like to thank The Net Ninja for creating such a great Flutter tutorial series. I learned a lot about mobile app development and Flutter specifically from watching his videos.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
