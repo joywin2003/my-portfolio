@@ -1,6 +1,3 @@
-
-# Project Title
-
 # My Flutter Projects
 This repository contains a collection of my Flutter projects. Each project is located in its own directory within this repository.
 
