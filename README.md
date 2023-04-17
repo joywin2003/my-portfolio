@@ -11,7 +11,7 @@ This repository contains a collection of my Flutter projects. Each project is lo
 ### Project 2: Quotes
 This Flutter project displays a list of awesome quotes and allows the user to delete them as needed. It was created while watching the Net Ninja Flutter tutorial series.
 
-Installation
+## Installation
 1. Clone this repository to your local machine:
 ```bash
 git clone https://github.com/your-username/flutter-projects.git
