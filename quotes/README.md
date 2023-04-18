@@ -1,16 +1,19 @@
-# quotes
+# Quotes
 
-A new Flutter project.
+This Flutter project displays a list of awesome quotes and allows the user to delete them as needed. It was created while watching the Net Ninja Flutter tutorial series.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+* Displays a list of awesome quotes
+* Allows the user to delete quotes from the list
+* Uses Flutter for cross-platform compatibility
+* Written in Dart for fast and efficient code execution
 
-A few resources to get you started if this is your first Flutter project:
+## Contributing
+If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Credits
+This project was created while following the Net Ninja Flutter tutorial series. Thanks to the Net Ninja for creating such great tutorials!
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
